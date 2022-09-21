@@ -1,2 +1,2 @@
-# chemical-virtual-lab
-created for Chemical Department, Nirma University
+# Chemical Virtual Lab
+Created for Chemical Department, Nirma University
